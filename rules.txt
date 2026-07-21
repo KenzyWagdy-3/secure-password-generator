@@ -1,0 +1,9 @@
+The three rules for a strong password are:
+
+1. The password should be at least 8 characters
+
+
+2. The password should  include a mix of uppercase letters, lowercase letters,numbers, and special characters to increase difficulty.
+
+
+3. The password shouldn't be like "1111", "abcd", or "1234" as they are predictable.
